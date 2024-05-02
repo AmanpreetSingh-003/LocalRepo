@@ -1,2 +1,1 @@
-<p> This is a new repo <P>
-<p>dropdown</P>
+# This is  local repo made by Amanpreet Singh 
